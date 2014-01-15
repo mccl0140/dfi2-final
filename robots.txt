@@ -1,0 +1,5 @@
+#http://en.wikipedia.org/wiki/Robots_exlusion_standard
+#http://www.robotstxt.org
+
+Sitemap: http://mccl0140.site44.com/dsn1543/project-1/sitemap.xml
+User-agent: *

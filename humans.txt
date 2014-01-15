@@ -1,0 +1,22 @@
+#http://www.humanstxt.org
+
+                      
+/* TEAM */
+                    
+Your title: Samantha McClelland                          
+Site: mccl0140@algonquinlive.com                         
+Twitter: @mcclellandsam
+Location: Ottawa, Canada
+		
+/* THANKS */
+							
+Name: thanks to everyone!
+
+   
+/* SITE */
+                          
+Last update: 2013/12/11    
+Standards: HTML5, CSS3                       
+Components: 
+Software: Dreamweaver CC, Livereload
+   
